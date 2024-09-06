@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dinero: 1
+  deuda: 1
+  user: one
+
+two:
+  dinero: 1
+  deuda: 1
+  user: two
