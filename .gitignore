@@ -1,2 +1,37 @@
+# Log files
+log/*.log
 
-/Backend
+# Temporary files
+tmp/
+
+# Database files
+db/*.sqlite3
+db/*.sqlite3-journal
+
+# Byebug command history file
+.byebug_history
+
+# Node modules
+node_modules/
+
+# Yarn
+.yarn-integrity
+
+# Environment files
+.env
+.env.local
+
+# Bundler config
+.bundle/
+
+# Rails credentials
+config/credentials.yml.enc
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
